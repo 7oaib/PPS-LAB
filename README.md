@@ -2,10 +2,10 @@
 Programming and problem solving 
 Course & Student Details
 
-    Course: Programming for Problem Solving (PPS)
-    Program: B.Tech Mechanical Engineering (First Year)
-    Institution: MIT World Peace University (MIT-WPU), Pune
-
+    Course: Programming and Problem Solving (PPS)
+    Program: B.Tech Mechanical Engineering (FY)
+    Institution: MIT World Peace University (MIT-WPU)
+    
 Lab Assignments Index
 Lab 3: Arithmetic Operations
 
