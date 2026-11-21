@@ -44,7 +44,7 @@ Lab 10: Calendar Generation
 
     C program to print the complete month-by-month calendar for the year 1980.
 
-Tools & Environment
+Tools Used
 
     Language: C
     Compiler: GCC
